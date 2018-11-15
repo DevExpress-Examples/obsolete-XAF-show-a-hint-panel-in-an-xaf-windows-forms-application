@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewHintController.cs](./CS/WinSample.Module.Win/ViewHintController.cs) (VB: [ViewHintController.vb](./VB/WinSample.Module.Win/ViewHintController.vb))
+* **[WindowHintController.cs](./CS/WinSample.Module.Win/WindowHintController.cs) (VB: [WindowHintController.vb](./VB/WinSample.Module.Win/WindowHintController.vb))**
+* [Detail.cs](./CS/WinSample.Module/Detail.cs) (VB: [Detail.vb](./VB/WinSample.Module/Detail.vb))
+* [Master.cs](./CS/WinSample.Module/Master.cs) (VB: [Master.vb](./VB/WinSample.Module/Master.vb))
+<!-- default file list end -->
 # How to show a hint panel in an XAF Windows Forms application
 
 
